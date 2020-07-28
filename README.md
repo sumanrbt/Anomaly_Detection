@@ -4,3 +4,6 @@ An anomaly is defined as something which is different from the normal. Using sup
 1. training an autoencoder using the normal data and using the reconstruction error as an anomaly metric.
 2. in the case of time series data, predicting the next instance and using the prediction error as an anomaly metric.
 
+# UCSD dataset
+[UCSD Dataset]<http://www.svcl.ucsd.edu/projects/anomaly/dataset.html>
+
